@@ -1,0 +1,21 @@
+table.customTable {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    color: #333;
+}
+
+table.customTable td, table.customTable th {
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+table.customTable th {
+    background-color: #f0f0f0;
+}
+
+/* Hide the element */
+.display-none {
+    display: none;
+}
